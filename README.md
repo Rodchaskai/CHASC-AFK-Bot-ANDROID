@@ -1,2 +1,12 @@
 # CHASC-AFK-Bot-ANDROID
-READ LICENSE.MD | Keyifli kullanımlar dilerim CHASC Ailesi! &lt;3 discord.gg/rodchaskai KURULUM: RELEASES KISMINDAN LATEST SÜRÜMÜ İNDİRİP APKMIRROR İLE KURABİLİRSİNİZ.
+
+🚀Yan taraftaki releases kısmından uygulamayı indirip apkmirror (tavsiye) veya başka apk çıkarıcı uygulamalar ile kurabilir kullanmaya başlayabilirsiniz.
+
+🚀Bir sorunuz varsa destek ekibi: https://discord.gg/rodchaskai
+
+🌟Keyifli kullanımlar dilerim CHASC Ailesi! 
+
+ !⚠️Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD⚠️!
+ ⚠️!Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD!⚠️ 
+ !⚠️Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD⚠️!
+
