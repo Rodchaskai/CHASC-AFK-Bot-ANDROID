@@ -7,6 +7,3 @@
 🌟Keyifli kullanımlar dilerim CHASC Ailesi! 
 
  !⚠️Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD⚠️!
- ⚠️!Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD!⚠️ 
- !⚠️Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD⚠️!
-
