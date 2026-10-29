@@ -8,4 +8,5 @@
 🚀Bir sorunuz varsa destek ekibi: https://discord.gg/rodchaskai
 
 🌟Keyifli kullanımlar dilerim!
+
  !⚠️Uygulamamızın modifiye edilmesi, tekrar dağıtılması yasaktır. Detaylar LICENSE.MD⚠️!
